@@ -1,6 +1,6 @@
 package main
 
-func main()  {
+func main() {
   age := getMyAge()
   println("I'm", age, "years old");
 }
