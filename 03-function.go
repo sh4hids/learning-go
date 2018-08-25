@@ -1,10 +1,10 @@
 package main
 
 func main() {
-  age := getMyAge()
-  println("I'm", age, "years old");
+	age := getMyAge()
+	println("I'm", age, "years old")
 }
 
-func getMyAge() int  {
-  return 25
+func getMyAge() int {
+	return 25
 }
